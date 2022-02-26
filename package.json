@@ -1,0 +1,12 @@
+{
+  "name": "await-less",
+  "version": "1.0.0",
+  "description": "Removes awaits or something.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
